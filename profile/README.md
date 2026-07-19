@@ -87,9 +87,9 @@ Our mission is to create high-quality applications combining performance, mainta
 
 | Project | Description | Status |
 |---------|-------------|:------:|
-| 🟣 SL Framework | Modern FiveM Framework | 🟢 |
-| 🌐 SL Web | Modern Web Applications | 🟢 |
-| 🤖 SL Bot | Discord Automation | 🟢 |
+| 🟣 SL Base | Modern FiveM Base | 🟢 |
+| 🌐 Web | Modern Web Applications | 🟢 |
+| 🤖 Bot | Discord Automation | 🟢 |
 | 🧠 SL AI | AI Image Generation | 🟡 |
 | ☕ Java Applications | Desktop & Backend | 🟢 |
 
