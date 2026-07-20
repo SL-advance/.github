@@ -7,7 +7,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://discord.gg/PEj5nDCXa">
+  <a href="https://sl-advance.tech/index.php">
+    <img src="https://img.shields.io/badge/Website-8523BE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.gg/eEbG75jAQy">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
@@ -147,7 +151,11 @@ Every project developed by **SL Advance** follows the same philosophy:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://discord.gg/PEj5nDCXa">
+<a href="https://sl-advance.tech/index.php">
+<img src="https://img.shields.io/badge/Website-8523BE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/eEbG75jAQy">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
